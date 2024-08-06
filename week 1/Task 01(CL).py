@@ -1,0 +1,6 @@
+name=input("enter name = ")
+roll_no=int(input("enter roll number ="))
+aggregate=int(input("enter aggregate ="))
+section=input("enter your section =  ")
+print("****************************")
+print(name , roll_no , aggregate , section)
